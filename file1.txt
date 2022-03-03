@@ -1,5 +1,5 @@
 This is my first repo file :)
 Hello, It's Mali
 I'm well :)
-
-It's kinf of interesting to add information with different local machines :)
+It's kind of interesting to add information with different local machines :)
+This line sending from github account to macbook's terminal"
